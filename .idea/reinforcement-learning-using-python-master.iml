@@ -6,5 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="AutoEncoder" />
     <orderEntry type="module" module-name="Stock_indicators" />
+    <orderEntry type="module" module-name="Clustering" />
+    <orderEntry type="module" module-name="Base" />
   </component>
 </module>
