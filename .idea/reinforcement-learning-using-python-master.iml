@@ -8,5 +8,6 @@
     <orderEntry type="module" module-name="Stock_indicators" />
     <orderEntry type="module" module-name="Clustering" />
     <orderEntry type="module" module-name="Base" />
+    <orderEntry type="module" module-name="Fourrier_trans" />
   </component>
 </module>

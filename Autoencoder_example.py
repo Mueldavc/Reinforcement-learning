@@ -8,7 +8,7 @@ from keras.callbacks import TensorBoard
 
 
 StockData = StockData("WINZ20", 10, 1)
-StockData.download_stock(TIMEFRAME_M5, datetime.today(), 20)
+StockData.stockdata(TIMEFRAME_M5, datetime.today(), 20)
 StockData.values_norm()
 
 # input_img = keras.Input(shape=(28, 28, 1))

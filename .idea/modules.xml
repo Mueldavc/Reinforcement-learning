@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/../AutoEncoder/.idea/AutoEncoder.iml" filepath="$PROJECT_DIR$/../AutoEncoder/.idea/AutoEncoder.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Base/.idea/Base.iml" filepath="$PROJECT_DIR$/../Base/.idea/Base.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Clustering/.idea/Clustering.iml" filepath="$PROJECT_DIR$/../Clustering/.idea/Clustering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Fourrier_trans/.idea/Fourrier_trans.iml" filepath="$PROJECT_DIR$/../Fourrier_trans/.idea/Fourrier_trans.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Stock_indicators/.idea/Stock_indicators.iml" filepath="$PROJECT_DIR$/../Stock_indicators/.idea/Stock_indicators.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/reinforcement-learning-using-python-master.iml" filepath="$PROJECT_DIR$/.idea/reinforcement-learning-using-python-master.iml" />
     </modules>
